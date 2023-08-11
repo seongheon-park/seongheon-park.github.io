@@ -28,7 +28,7 @@ sections:
         - title: Graduate Researcher
           company: Machine Learning Lab.,Yonsei University
           company_url: ''
-          company_logo: yonsei.jpg
+          company_logo: yonsei
           location: Seoul
           date_start: '2023-09-01'
           date_end: ''
@@ -41,7 +41,7 @@ sections:
         - title: Researcher
           company: Digital Image Media Lab., Yonsei University
           company_url: ''
-          company_logo: yonsei.jpg
+          company_logo: yonsei
           location: Seoul
           date_start: '2021-09-01'
           date_end: '2023-08-31'
