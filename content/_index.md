@@ -38,6 +38,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+    
         - title: Research Assistant 
           company: Digital Image Media Lab., Yonsei University
           company_url: 'https://diml.yonsei.ac.kr/'
@@ -52,8 +53,8 @@ sections:
           company_url: 'https://diml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
-          date_start: '2021-09-01'
-          date_end: '2023-08-31'
+          date_start: '2021-01-01'
+          date_end: '2021-08-31'
   
     design:
       columns: '2'
