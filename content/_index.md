@@ -55,9 +55,9 @@ sections:
           location: Seoul
           date_start: '2021-01-01'
           date_end: '2021-08-31'
-  
+          
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
