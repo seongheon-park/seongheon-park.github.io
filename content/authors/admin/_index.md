@@ -4,27 +4,27 @@ role: Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Computer_Vision
-  - Machine_Learning
+  - Computer Vision
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/bububu1324
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=8FFbyJ0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Seongheon-Park
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/seongheon-‍park-4948291b5
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -41,9 +41,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Park
 highlight_name: true
-first_name: Alice
+first_name: Seongheon
 email: ""
 ---
 
