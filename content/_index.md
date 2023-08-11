@@ -48,14 +48,6 @@ sections:
           date_end: '2023-08-31'
           description: Taught electronic engineering and researched semiconductor physics.
 
-       - title: Undergraduate Research Assistant
-          company: Digital Image Media Lab., Yonsei University
-          company_url: 'https://diml.yonsei.ac.kr/'
-          company_logo: yonsei
-          location: Seoul
-          date_start: '2021-01-01'
-          date_end: '2021-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
