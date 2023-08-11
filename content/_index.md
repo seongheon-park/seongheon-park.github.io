@@ -55,9 +55,9 @@ sections:
           location: Seoul
           date_start: '2021-01-01'
           date_end: '2021-08-31'
-          
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
