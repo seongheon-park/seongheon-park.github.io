@@ -26,8 +26,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Researcher
-          company: Machine Learning Lab.,Yonsei University
-          company_url: ''
+          company: Machine Learning Lab., Yonsei University
+          company_url: 'https://ml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
           date_start: '2023-09-01'
@@ -38,14 +38,23 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Researcher
+        - title: Research Assistant 
           company: Digital Image Media Lab., Yonsei University
-          company_url: ''
+          company_url: 'https://diml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
           date_start: '2021-09-01'
           date_end: '2023-08-31'
           description: Taught electronic engineering and researched semiconductor physics.
+
+       - title: Undergraduate Research Assistant
+          company: Digital Image Media Lab., Yonsei University
+          company_url: 'https://diml.yonsei.ac.kr/'
+          company_logo: yonsei
+          location: Seoul
+          date_start: '2021-09-01'
+          date_end: '2023-08-31'
+  
     design:
       columns: '2'
   - block: accomplishments
