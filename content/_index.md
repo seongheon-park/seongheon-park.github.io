@@ -28,7 +28,7 @@ sections:
         - title: Graduate Researcher
           company: Machine Learning Lab.,Yonsei University
           company_url: ''
-          company_logo: org-gc
+          company_logo: yonsei
           location: Seoul
           date_start: '2023-09-01'
           date_end: ''
