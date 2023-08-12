@@ -37,10 +37,10 @@ education:
   courses:
     - course: MEng in Electrical and Electronic Engineering
       institution: Yonsei University
-      year: ""
+      year: "2023"
     - course: BSc in Electrical and Electronic Engineering
       institution: Yonsei University
-      year: ""
+      year: "2021"
 superuser: true
 status:
   icon: ☕️
