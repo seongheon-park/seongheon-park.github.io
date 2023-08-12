@@ -13,6 +13,16 @@ sections:
       username: admin
     
 
+  - block: markdown
+    content:
+      title: Recent News
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
   - block: experience
     content:
       title: Research Experience
