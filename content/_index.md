@@ -152,7 +152,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: sam121796@yonsei.ac.kr
       phone: (82-10) 8221-9574
-      
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: Contact Me
+          link: 'https://twitter.com/Twitter'
 
       # Automatically link email and phone or display as text?
       autolink: true
