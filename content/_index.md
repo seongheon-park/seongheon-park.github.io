@@ -33,11 +33,12 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Research topics include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Open-World Learning, Out-of-Distribution Detection
+              * (Self-Supervised) Representation Learning
+              * Long-Tailed Learning
+              * Learning with Limited Labeled Data
     
         - title: Research Assistant 
           company: Digital Image Media Lab., Yonsei University
