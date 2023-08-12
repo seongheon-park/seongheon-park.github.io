@@ -24,7 +24,7 @@ social:
     link: https://scholar.google.com/citations?user=8FFbyJ0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/Seongheon-Park
+    link: https://github.com/seongheon-park
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/seongheon-‍park-4948291b5
