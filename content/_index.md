@@ -156,7 +156,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: Contact Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://www.linkedin.com/in/seongheon-‍park-4948291b5'
 
       # Automatically link email and phone or display as text?
       autolink: true
