@@ -55,6 +55,21 @@ sections:
               * Long-Tailed Learning
               * Learning with Limited Labeled Data
 
+    - title: Research Assistant 
+          company: Digital Image Media Lab., Yonsei University
+          company_url: 'https://diml.yonsei.ac.kr/'
+          company_logo: yonsei
+          location: Seoul
+          date_start: '2021-09-01'
+          date_end: '2023-08-31'
+          description: |2-
+              Research topics include:
+
+              * Open-World Learning, Out-of-Distribution Detection
+              * (Self-Supervised) Representation Learning
+              * Long-Tailed Learning
+              * Learning with Limited Labeled Data
+
     design:
       columns: '2'
  
