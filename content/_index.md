@@ -55,7 +55,7 @@ sections:
               * Long-Tailed Learning
               * Learning with Limited Labeled Data
 
-    - title: Research Assistant 
+       - title: Research Assistant 
           company: Digital Image Media Lab., Yonsei University
           company_url: 'https://diml.yonsei.ac.kr/'
           company_logo: yonsei
