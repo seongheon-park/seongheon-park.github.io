@@ -66,7 +66,7 @@ sections:
               Research topics include:
 
               * Image and Video Understanding
-              * Human-Object Interaction
+              * Human-Object Interaction Detection
 
 
     design:
