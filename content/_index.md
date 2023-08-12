@@ -55,13 +55,13 @@ sections:
               * Long-Tailed Learning
               * Learning with Limited Labeled Data
 
-       - title: Research Assistant 
+       - title: Undergraduate Research Assistant 
           company: Digital Image Media Lab., Yonsei University
           company_url: 'https://diml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
-          date_start: '2021-09-01'
-          date_end: '2023-08-31'
+          date_start: '2021-01-01'
+          date_end: '2021-08-31'
           description: |2-
               Research topics include:
 
