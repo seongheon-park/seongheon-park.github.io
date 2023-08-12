@@ -7,7 +7,7 @@ interests:
   - Computer Vision
   - Machine Learning
   - Open-World Learning
-  - Learning with Limited Labeled Data
+
     
 social:
   - icon: envelope
