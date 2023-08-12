@@ -47,7 +47,13 @@ sections:
           location: Seoul
           date_start: '2021-09-01'
           date_end: '2023-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Research topics include:
+
+              * Open-World Learning, Out-of-Distribution Detection
+              * (Self-Supervised) Representation Learning
+              * Long-Tailed Learning
+              * Learning with Limited Labeled Data
 
     design:
       columns: '2'
