@@ -1,6 +1,6 @@
 ---
 title: Development of Multimodal-based General-purpose Social Artificial Intelligence Technology
-summary: Funded by Yonsei University-Yonsei signature research cluster.
+summary: Funded by Yonsei University-Yonsei Signature Research Cluster.
 tags:
   - Deep Learning
 date: '2022-03-01T00:00:00Z'
