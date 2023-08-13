@@ -132,7 +132,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me!
+        Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: sam121796@yonsei.ac.kr
       phone: (82-10) 8221-9574
