@@ -30,9 +30,7 @@ url_video: ''
 slides: 
 ---
 
-Developing artificial intelligence/machine learning source technology through future situation prediction research through human-like comprehensive video understanding.
 
-Comprehensive video understanding includes contextual information through correlation analysis between human emotion/action/surrounding scene.
 
 Development of emotion recognition technology through video-based interaction of emotion/action/environment.
 
