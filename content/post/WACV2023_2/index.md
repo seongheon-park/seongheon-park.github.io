@@ -3,7 +3,7 @@
 # subtitle: Our paper on zero-shot video grounding was accepted to WACV 2023.
 
 # Summary for listings and search engines
-summary: One paper about zero-shot video grounding is accepted by **WACV 2023**!
+summary: One paper about zero-shot video grounding is accepted by [**WACV 2023**](https://wacv2023.thecvf.com/home)!
 
 # Link this post with a project
 projects: []
