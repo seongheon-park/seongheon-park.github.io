@@ -73,3 +73,10 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    reading_time: false
+  
