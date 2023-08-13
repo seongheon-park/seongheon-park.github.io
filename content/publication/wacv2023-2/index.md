@@ -1,5 +1,5 @@
 ---
-title: 'Language-free Training for Zero-shot Video Grounding'
+title: 'Normality Guided Multiple Instance Learning for Weakly Supervised Video Anomaly Detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openaccess.thecvf.com/content/WACV2023/papers/Kim_Language-Free_Training_for_Zero-Shot_Video_Grounding_WACV_2023_paper.pdf'
+url_pdf:'https://openaccess.thecvf.com/content/WACV2023/papers/Park_Normality_Guided_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_WACV_2023_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
