@@ -1,6 +1,6 @@
 ---
-title: Fundamental Research on Vision Algorithms for Comprehensive and Thorough Video Understanding
-summary: Funded by Ministry of science, ICT and future plannning.
+title: Deep Identification and Tracking of Missing Persons in Heterogeneous CCTV
+summary: Funded by Korea Institute of Science and Technology (KIST)
 tags:
   - Deep Learning
 date: '2018-03-01T00:00:00Z'
