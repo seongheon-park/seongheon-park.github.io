@@ -47,7 +47,6 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
 url_pdf:'https://openaccess.thecvf.com/content/WACV2023/papers/Park_Normality_Guided_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_WACV_2023_paper.pdf'
 url_code: ''
 url_dataset: ''
