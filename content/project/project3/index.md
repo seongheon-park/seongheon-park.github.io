@@ -1,6 +1,6 @@
 ---
 title: Development of Complex Situational Awareness and Prediction Technology through Multi-modal Data Fusion and Social Artificial Intelligence
-summary: Funded by Ministry of sciecne, mid-level research
+summary: Funded by Ministry of Science and ICT, Mid-Level Research
 tags:
   - Deep Learning
 date: '2021-03-01T00:00:00Z'
