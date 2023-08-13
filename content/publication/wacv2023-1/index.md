@@ -6,9 +6,9 @@ title: 'Language-free Training for Zero-shot Video Grounding'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Dahye Kim
-  - admin
+  - Jungin Park
   - Jiyoung Lee
-  - Seongheon Park
+  - admin
   - Kwanghoon Sohn
 
 # Author notes (optional)
