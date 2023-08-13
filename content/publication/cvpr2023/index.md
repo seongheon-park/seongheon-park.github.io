@@ -16,11 +16,11 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2023-02-28T00:00:00Z'
+date: '2023-02-19T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-02-28T00:00:00Z'
+publishDate: '2023-06-18T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_PartMix_Regularization_Strategy_To_Learn_Part_Discovery_for_Visible-Infrared_Person_CVPR_2023_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
