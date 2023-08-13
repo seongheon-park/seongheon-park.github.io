@@ -7,8 +7,8 @@ title: 'PartMix: Regularization Strategy to Learn Part Discovery for Visible-Inf
 authors:
   - Minsu Kim
   - Seungryong Kim
+  - Jungin Park
   - admin
-  - Seongheon Park
   - Kwanghoon Sohn
 
 # Author notes (optional)
