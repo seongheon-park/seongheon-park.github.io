@@ -1,8 +1,8 @@
 ---
 title: Seongheon Park
 role: Researcher
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include computer vision, machine learning and
+  open-world learning.
 interests:
   - Computer Vision
   - Machine Learning
