@@ -3,7 +3,7 @@
 # subtitle: Our paper on zero-shot video grounding was accepted to WACV 2023.
 
 # Summary for listings and search engines
-summary: Our two paper were accepted to **CVPR** 2023.
+summary: Two papers are accepted by **WACV 2023**!.
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 # date: '2022-10T00:00:00Z'
 
 # Date updated
-lastmod: '2023-02-28T00:00:00Z'
+lastmod: '2022-10-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
