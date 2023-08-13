@@ -3,7 +3,7 @@
 # subtitle: Our paper on zero-shot video grounding was accepted to WACV 2023.
 
 # Summary for listings and search engines
-summary: One paper about compositional zero-shot learning is accepted by **ICCV 2023**!.
+summary: One paper about compositional zero-shot learning is accepted by **ICCV 2023**!
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 # date: '2023-07-01T00:00:00Z'
 
 # Date updated
-lastmod: '2023-07-01T00:00:00Z'
+lastmod: '2023-07-30T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
