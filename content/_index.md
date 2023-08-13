@@ -101,21 +101,17 @@ sections:
       columns: '2'
     
   - block: collection
-    id: publications
+    id: featured
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: true
     design:
       columns: '2'
-      view: citation
- 
+      view: card
+    
   - block: portfolio
     id: projects
     content:
