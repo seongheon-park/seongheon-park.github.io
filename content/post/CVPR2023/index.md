@@ -3,7 +3,7 @@
 # subtitle: Our paper on zero-shot video grounding was accepted to WACV 2023.
 
 # Summary for listings and search engines
-summary: One paper about cross-domain person re-identification is accepted by **CVPR 2023**!
+summary: One paper about cross-domain person re-identification is accepted by [**CVPR 2023**](https://cvpr2023.thecvf.com/)!
 
 # Link this post with a project
 projects: []
