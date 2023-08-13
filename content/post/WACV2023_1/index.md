@@ -3,10 +3,10 @@
 # subtitle: Our paper on zero-shot video grounding was accepted to WACV 2023.
 
 # Summary for listings and search engines
-summary: One paper about weakly-supervised video anomaly detection is accepted by **WACV 2023**!
+summary: One paper about weakly-supervised video anomaly detection is accepted by [**WACV 2023**](https://www.google.com)!
 
 # Link this post with a project
-url : #publications
+
 
 # Date published
 # date: '2022-10T00:00:00Z'
