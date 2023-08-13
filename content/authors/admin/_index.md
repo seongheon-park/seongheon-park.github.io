@@ -50,5 +50,6 @@ first_name: Seongheon
 email: "sam121796@yonsei.ac.kr"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a M.S. Candidate working with Prof.Kwanghoon Sohn at the Department of Electrical and Electronic Engineering at Yonsei University, Republic of Korea. I'm interested in deploying Computer Vision and Machine Learning models to the real Open World which contains situations that are dynamic, vast, never-before-seen, and unpredictable. 
+
 {style="text-align: justify;"}
