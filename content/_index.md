@@ -58,7 +58,7 @@ sections:
           date_end: '2023-08-31'
           description: |2-
               Research topics include:
-
+              * Open-World Learning, Out-of-Distribution Detection
               * Image/Video Anomaly Detection
               * Vision-Language Models
               * Cross-Domain Person Re-Identification
