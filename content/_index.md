@@ -58,7 +58,7 @@ sections:
           company_url: 'https://ml.yonsei.ac.kr/'
           company_logo: yonsei
           location: Seoul
-          date_start: '2023-09-01'
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
               Research topics include:
