@@ -53,7 +53,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Researcher
+        - title: Graduate Research Assistant
           company: Machine Learning Lab., Yonsei University
           company_url: 'https://ml.yonsei.ac.kr/'
           company_logo: yonsei
