@@ -108,15 +108,15 @@ sections:
         folders:
           - publication
         featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: card
-  design:
+    design:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
       columns: '1'   
 
+    #  design:
+      #    columns: '2'
+      #    view: card
       
   - block: portfolio
     id: projects
