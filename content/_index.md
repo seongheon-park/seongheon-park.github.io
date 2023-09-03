@@ -63,7 +63,8 @@ sections:
           description: |2-
               Research topics include:
 
-              * Open-World Learning, Out-of-Distribution Detection
+              * Open-World Learning
+              * Out-of-Distribution Detection
               * (Self-Supervised) Representation Learning
               * Long-Tailed Learning
               * Learning with Limited Labeled Data
@@ -77,10 +78,11 @@ sections:
           date_end: '2023-08-31'
           description: |2-
               Research topics include:
-              * Open-World Learning, Out-of-Distribution Detection
+              * Open-World Learning
+              * Out-of-Distribution Detection
               * Image/Video Anomaly Detection
               * Vision-Language Models
-              * Cross-Domain Person Re-Identification
+              * Person Re-Identification
               * Learning with Limited Labeled Data
 
         - title: Undergraduate Research Assistant 
