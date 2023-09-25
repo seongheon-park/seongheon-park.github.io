@@ -6,7 +6,7 @@ bio: My research interests include computer vision, machine learning and
 interests:
   - Computer Vision
   - Machine Learning
-  - Open-World Learning
+  - Open-World Machine Learning
 
     
 social:
