@@ -63,11 +63,9 @@ sections:
           description: |2-
               Research topics include:
 
-              * Open-World Learning
+              * Open-World Machine Learning
               * Out-of-Distribution Detection
-              * (Self-Supervised) Representation Learning
-              * Long-Tailed Learning
-              * Learning with Limited Labeled Data
+              * Learning from Limited and Imperfect Data
     
         - title: Research Assistant 
           company: Digital Image Media Lab., Yonsei University
@@ -78,12 +76,12 @@ sections:
           date_end: '2023-08-31'
           description: |2-
               Research topics include:
-              * Open-World Learning
+              * Open-World Machine Learning
               * Out-of-Distribution Detection
               * Image/Video Anomaly Detection
               * Vision-Language Models
-              * Person Re-Identification
-              * Learning with Limited Labeled Data
+              * Cross-Domain Generalization
+              * Learning from Limited and Imperfect Data
 
         - title: Undergraduate Research Assistant 
           company: Digital Image Media Lab., Yonsei University
